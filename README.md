@@ -31,9 +31,11 @@ fig.suptitle('Likelihood of Skills Requsted in U.S. Job Postings', fontsize=20)
 fig.tight_layout()
 plt.show()
 ```
+
 ### Results
 
-![Visualaton of Top Skills for Top 3 Roles](3_Project\images\likelihood_skills_data_role.png)
+![likelihood skills data role](3_Project/images/likelihood_skills_data_role.png)
+
 
 ### Insights
 
