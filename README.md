@@ -103,7 +103,7 @@ plt.show()
 
 ### Results
 
-![trending skills data analysts](3_Project\images\trending_skills_data_analysts.png)
+![trending skills data analysts](3_Project/images/trending_skills_data_analysts.png)
 
 ### Insights
 
@@ -137,7 +137,7 @@ plt.show()
 ```
 
 ### Results
-![median salaries for top 6 roles](3_Project\images\top6_median_salaries.png)
+![median salaries for top 6 roles](3_Project/images/top6_median_salaries.png)
 
 ### Insights
 
@@ -173,7 +173,7 @@ fig.tight_layout()
 plt.show()
 ```
 ### Results
-![top 10 paying skills and top 10 most in-demand skills](3_Project\images\top10_charts_paying&demand.png)
+![top 10 paying skills and top 10 most in-demand skills](3_Project/images/top10_charts_paying&demand.png)
 
 ### Insights
 
@@ -188,11 +188,11 @@ plt.show()
 To gather the data for this visualization I needed to make a new data frame that looked at Data Analyst roles in the U.S. Then explode the skill column so that we could get the count and median for salary by job skill. Then did the work to create a skill percent column. This would then allow me to create a filter for hihghest demand skills to give me a new data frame. Then it was time to plot and format the chart.
 
 View my notebook with detailed steps here:
-[5_Optimaal_Skills.ipynb](3_Project/5_Optimal_Skills.ipynb)
+[5_Optimal_Skills.ipynb](3_Project/5_Optimal_Skills.ipynb)
 
 ### Results
 
-![most optical skills for data analysts](3_Project\images\most_optimal_skills.png)
+![most optical skills for data analysts](3_Project/images/most_optimal_skills.png)
 
 ### Insights
 - It is important to note that the highest paying and most commonly requested skills are Python, SQL, and Tableau. So, knowing some more advanced software tools does pay and gives aspiring and current Data Analysts the best chance at finding new roles and with higher pay
