@@ -209,7 +209,7 @@ Throughout this project I heightend my understanfin of the Data Analyst job mark
 
 * **Data Cleaning Importance**: This project brought a better understanding to the importance of having properly cleaned and prepared data. This ensuring the accuracy of insights derived from the data.
 
-# Project Insihgts
+# Project Insights
 This project provided several general insights into the job market for analysts:
 
 * **Skill Demand & Salary Correlation**: There is a clear correlation between the demand of certain skill and the salary for the role. More advanced and specialized skills such as Python, Tableau, SQL, Oracle lead to higher salaries.
